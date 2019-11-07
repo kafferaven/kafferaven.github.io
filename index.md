@@ -12,7 +12,4 @@ Nicaragua, Costa Rica, Brazil, Rwanda, Kenya and Ethiopia. We sell coffee to Eur
 
 
 Contact: 
-
 info@pngreen.coffee
-
-+46733203150
