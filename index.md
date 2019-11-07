@@ -13,6 +13,3 @@ Contact:
 info@pngreen.coffee
 
 ![Logo](pngreen.png)
-
-I think you should use an
-`<addr>` element here instead.
