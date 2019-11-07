@@ -12,5 +12,8 @@ Nicaragua, Costa Rica, Brazil, Rwanda, Kenya and Ethiopia. We deliver coffee to 
 Get in contact for current offerings, incoming green just to say hi. 
 info@pngreen.coffee
 
+http://github.com - automatic!
+[GitHub](http://github.com)
 
-![Logo](pngreensmall.png)
+Email us for more info
+[email](info@pngreen.coffee)
