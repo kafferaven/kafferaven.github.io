@@ -1,4 +1,4 @@
-# Welcome to Pn Green
+# Welcome to ![Logo](pngreensmall.png)
 
 ## _Transparency, taste & trade_
 
