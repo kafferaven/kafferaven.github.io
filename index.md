@@ -3,7 +3,7 @@
 
 ### PN Green is a coffee sourcing company based in Gothenburg, Sweden. 
 
-![Logo](pngreen logo logga.png)
+![pngreen.png](pngreen.png)
 
 PN Green trade great tasting speciality coffees produced by people we know and trust. Our ambition is to source, import and distribute tasty coffee with an underlying commitment to supporting long-term relationships, economic stability, environmental awareness, and positive social impact in the communities we source coffee from.
 
