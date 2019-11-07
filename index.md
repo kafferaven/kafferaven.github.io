@@ -9,11 +9,4 @@ We trade speciality coffees produced by people we know and trust. Our ambition i
 PN Green currently work with farmers and exporters in six countries: 
 Nicaragua, Costa Rica, Brazil, Rwanda, Kenya and Ethiopia. We deliver coffee to European roasters who share our values. Our company is founded on the goal to connect producers and roasters who equaly look for stable prices and partnerships. 
 
-Get in contact for current offerings, incoming green just to say hi. 
-info@pngreen.coffee
-
-http://github.com - automatic!
-[GitHub](http://github.com)
-
-Email us for more info
-[email](info@pngreen.coffee)
+Email info@pngreen.coffee for current offerings, incoming green just to say hi. 
