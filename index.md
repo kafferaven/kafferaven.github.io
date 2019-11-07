@@ -1,5 +1,7 @@
 
-<img align="center" src="pngreen.png" />
+<p style="text-align: center">
+  <img src="pngreen.png" />
+</p>
 
 
 ## PN Green is a coffee sourcing company based in Gothenburg, Sweden. 
