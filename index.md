@@ -10,8 +10,9 @@ Our ambition is to source, import and distribute tasty coffee with an underlying
 We buy green coffee from people we know and trust. We work with farmers and exporters in six countries: 
 Nicaragua, Costa Rica, Brazil, Rwanda, Kenya and Ethiopia. We sell coffee to European roasters who share our values. 
 
-Transparency, taste, trade.
 
 Contact: 
+
 info@pngreen.coffee
+
 +46733203150
