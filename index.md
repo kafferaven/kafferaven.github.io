@@ -1,4 +1,4 @@
-![Logo](pngreen.png)
+# Welcome to Pn Green
 
 ## _Transparency, taste & trade_
 
@@ -13,3 +13,5 @@ Nicaragua, Costa Rica, Brazil, Rwanda, Kenya and Ethiopia. We deliver coffee to 
 
 Contact: 
 info@pngreen.coffee
+
+![Logo](pngreen.png)
