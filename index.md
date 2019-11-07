@@ -1,6 +1,5 @@
 ![Logo](pngreen.png)
 
-# Welcome to PN Green. 
 ## _Transparency, taste & trade_
 
 ### PN Green is a coffee sourcing company based in Gothenburg, Sweden. 
