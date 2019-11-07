@@ -1,5 +1,5 @@
 # Welcome to PN Green. 
-### Transparency, taste & trade
+### _Transparency, taste & trade_
 
 PN Green is a coffee sourcing company founded in 2016 and based in Gothenburg, Sweden. 
 
