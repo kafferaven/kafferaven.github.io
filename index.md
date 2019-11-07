@@ -3,7 +3,6 @@
   <img src="pngreen.png" />
 </p>
 
-<FONT FACE="open sans">
 
 ## PN Green is a coffee sourcing company based in Gothenburg, Sweden. 
 
@@ -12,5 +11,3 @@ We trade speciality coffees produced by people we know and trust. Our ambition i
 PN Green currently work with farmers and exporters in Nicaragua, Costa Rica, Brazil, Rwanda, Kenya and Ethiopia. We deliver coffee to European roasters who share our values. Our company is founded on the goal to connect producers and roasters who equaly look for stable prices and partnerships. 
 
 Email <a href="mailto:info@pngreen.coffee">info@pngreen.coffee</a> for current offerings, incoming green just to say hi. 
-
-</FONT>
