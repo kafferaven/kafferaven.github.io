@@ -5,7 +5,7 @@ saker att göra:
 byt typsnitt
     gils sans **( Gill Sans? Det kostar en del, inget gratistypsnitt. Har du köpt det mha Josef eller nåt?)**
 
-byt bakgrundsfärg till vit ( samma som bakgrunden i loggan)
+byt bakgrundsfärg till vit ( samma som bakgrunden i loggan) **Bakgrundsfärgen är vit.**
     alternativt lägg ett foto i bakgrunden
     alternativt ladda upp ny logga utan bakgrundsfärg
     
